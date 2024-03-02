@@ -6,6 +6,7 @@
     - `page.tsx` has the following component 
     - `layout.tsx` has the following interface
     - `props.children` is dynamic and is dependent on the path in the tree structure for rendering
+<br><br/>
     ```javascript
     const DashBoard: NextPage = () => {
     return (
