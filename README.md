@@ -29,4 +29,5 @@
     ```
 
 - Learnt how to API fetch and caching with Next.js
+- Learnt about Memoization with `useMemo()` hook
 
